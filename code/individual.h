@@ -6,7 +6,7 @@
  
  C++-code accompanying:
  
-        authors 
+        authors  test test
         title
  
  Written by:
